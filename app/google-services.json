@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "698064459580",
+    "firebase_url": "https://nhung-821dc.firebaseio.com",
+    "project_id": "nhung-821dc",
+    "storage_bucket": "nhung-821dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698064459580:android:99b0596c13e25c71",
+        "android_client_info": {
+          "package_name": "com.datvl.nhung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698064459580-v9hssm7ghv2h7ugjtufnbhuqpcam9lv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datvl.nhung",
+            "certificate_hash": "7da01a4bad7d44b734a6f083622565f5531e1954"
+          }
+        },
+        {
+          "client_id": "698064459580-3e334c2odanooagjrgnglikm7hccfvqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb5alfTZwLHQwIhG-K-E8OOBqujr1YRzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698064459580-3e334c2odanooagjrgnglikm7hccfvqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
